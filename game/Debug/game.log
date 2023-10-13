@@ -1,0 +1,7 @@
+﻿  Door.cpp
+  main.cpp
+  MyGame.cpp
+  stdafx.cpp
+  Generating Code...
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  game.vcxproj -> D:\Computer Games Programming  - uni stuff\Year 1\GTEC3D - Andreas\PAC-MAN ESPCAPES  - 3D Game Development Assignment - K2015106\Debug\GTECgame.exe
